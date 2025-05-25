@@ -8,7 +8,7 @@
 
 # System
 Thumbs.db
-*.ini
+desktop.ini
 
 # Python
 __pycache__/
