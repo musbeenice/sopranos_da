@@ -7,8 +7,11 @@
 *.pbip
 
 # System
-Thumbs.db
 desktop.ini
+Thumbs.db
+.DS_Store
+ehthumbs.db
+*.lnk
 
 # Python
 __pycache__/
